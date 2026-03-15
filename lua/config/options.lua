@@ -6,3 +6,4 @@ vim.o.shellcmdflag = "-NoLogo -NoProfile -Command"
 vim.o.shellquote = ""
 vim.o.shellxquote = ""
 vim.opt.fileformats = { "dos", "unix" }
+vim.opt.clipboard = "unnamedplus"
